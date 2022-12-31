@@ -2,6 +2,8 @@
 
  SourceMod plugin that allows Ts to whistle (at someone)
 
+ Original plugin made by zwolof (<https://forums.alliedmods.net/showthread.php?p=2674813>)
+
 ## Installation
 
  Clone the repo (or download it as a .ZIP) and move the `addons` folder into the server's `csgo` folder. Accept folder merging and you're good to go!
